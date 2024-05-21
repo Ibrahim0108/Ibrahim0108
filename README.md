@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ibrahim Rahmath</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A Aspiring FullStack developer from India</h3>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning React 
 
 - 💬 Ask me about **python**
 
