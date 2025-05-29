@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning React 
 
-- 💬 Ask me about **python**
-
 - ⚡ Fun fact **I am**
 
 
