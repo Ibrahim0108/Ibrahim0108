@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">Full stack</h3>
 
-- 🌱 I’m currently learning **Dotnet**
+- 🌱 I’m currently working in **Dotnet**
 
 <!--- - 👨‍💻 All of my projects are available at [portfolio ---vlink](portfolio ---vlink)
 
